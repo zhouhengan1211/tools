@@ -1,0 +1,3 @@
+[submodule "npu_memory_monitor"]
+	path = npu_memory_monitor
+	url = https://github.com/zhouhengan1211/npu_memory_monitor.git
